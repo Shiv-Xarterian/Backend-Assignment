@@ -1,0 +1,9 @@
+npm init->  create a package.json file which contains info about all the packages and project description
+nodemon -> only for develoment so it is in dev dependencies
+npm run dev -> to start the index.js file 
+
+
+MVC Model -> Model View Controller -> Main Goal is to break the application into Smaller and specific sections
+Model-> Layer connected to Database and responsible for application data logic and storing and retrieving data from Database
+View-> Represent the UI to which the User interact with the application
+Controller-> Controls the application logic neccassary for communications between the view and Model
